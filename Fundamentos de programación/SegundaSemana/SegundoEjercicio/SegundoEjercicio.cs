@@ -15,3 +15,14 @@ resultado = (ingreNumero * (ingreNumero + 1)) / 2;
 Console.Write($"El resultado es: {resultado}");
 
 
+
+// Segunda forma de resolver.
+/*
+Console.Write("Ingrese un número entero: ");
+ingreNumero = Convert.ToInt32(Console.ReadLine());
+for (int i = 1; i <= ingreNumero; i++)
+{
+    resultado += i;
+}
+Console.WriteLine($"El resultado es: {resultado}");
+*/

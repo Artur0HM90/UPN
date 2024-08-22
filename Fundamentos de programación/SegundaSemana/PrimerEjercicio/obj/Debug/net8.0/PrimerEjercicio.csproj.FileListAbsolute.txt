@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/PrimerEjercicio/bin/Debug/net8.0/PrimerEjercicio
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/PrimerEjercicio/bin/Debug/net8.0/PrimerEjercicio.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/PrimerEjercicio/bin/Debug/net8.0/PrimerEjercicio.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/PrimerEjercicio/bin/Debug/net8.0/PrimerEjercicio.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/PrimerEjercicio/bin/Debug/net8.0/PrimerEjercicio.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/PrimerEjercicio/obj/Debug/net8.0/PrimerEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/PrimerEjercicio/obj/Debug/net8.0/PrimerEjercicio.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/PrimerEjercicio/obj/Debug/net8.0/PrimerEjercicio.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/PrimerEjercicio/obj/Debug/net8.0/PrimerEjercicio.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/PrimerEjercicio/obj/Debug/net8.0/PrimerEjercicio.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/PrimerEjercicio/obj/Debug/net8.0/PrimerEjercicio.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/PrimerEjercicio/obj/Debug/net8.0/refint/PrimerEjercicio.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/PrimerEjercicio/obj/Debug/net8.0/PrimerEjercicio.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/PrimerEjercicio/obj/Debug/net8.0/PrimerEjercicio.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/PrimerEjercicio/obj/Debug/net8.0/ref/PrimerEjercicio.dll

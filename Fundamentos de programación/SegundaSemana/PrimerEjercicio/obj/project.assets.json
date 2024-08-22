@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/artur0hm/Desktop/Programacion/UPN/SegundaSemana/PrimerEjercicio/PrimerEjercicio.csproj",
+      "projectUniqueName": "/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/PrimerEjercicio/PrimerEjercicio.csproj",
       "projectName": "PrimerEjercicio",
-      "projectPath": "/Users/artur0hm/Desktop/Programacion/UPN/SegundaSemana/PrimerEjercicio/PrimerEjercicio.csproj",
+      "projectPath": "/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/PrimerEjercicio/PrimerEjercicio.csproj",
       "packagesPath": "/Users/artur0hm/.nuget/packages/",
-      "outputPath": "/Users/artur0hm/Desktop/Programacion/UPN/SegundaSemana/PrimerEjercicio/obj/",
+      "outputPath": "/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/PrimerEjercicio/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/artur0hm/.nuget/NuGet/NuGet.Config"

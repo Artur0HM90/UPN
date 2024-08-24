@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/03_TrabajoColaborativoTres/bin/Debug/net8.0/03_TrabajoColaborativoTres
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/03_TrabajoColaborativoTres/bin/Debug/net8.0/03_TrabajoColaborativoTres.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/03_TrabajoColaborativoTres/bin/Debug/net8.0/03_TrabajoColaborativoTres.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/03_TrabajoColaborativoTres/bin/Debug/net8.0/03_TrabajoColaborativoTres.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/03_TrabajoColaborativoTres/bin/Debug/net8.0/03_TrabajoColaborativoTres.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/03_TrabajoColaborativoTres/obj/Debug/net8.0/03_TrabajoColaborativoTres.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/03_TrabajoColaborativoTres/obj/Debug/net8.0/03_TrabajoColaborativoTres.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/03_TrabajoColaborativoTres/obj/Debug/net8.0/03_TrabajoColaborativoTres.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/03_TrabajoColaborativoTres/obj/Debug/net8.0/03_TrabajoColaborativoTres.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/03_TrabajoColaborativoTres/obj/Debug/net8.0/03_TrabajoColaborativoTres.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/03_TrabajoColaborativoTres/obj/Debug/net8.0/03_TrabajoColaborativoTres.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/03_TrabajoColaborativoTres/obj/Debug/net8.0/refint/03_TrabajoColaborativoTres.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/03_TrabajoColaborativoTres/obj/Debug/net8.0/03_TrabajoColaborativoTres.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/03_TrabajoColaborativoTres/obj/Debug/net8.0/03_TrabajoColaborativoTres.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/03_TrabajoColaborativoTres/obj/Debug/net8.0/ref/03_TrabajoColaborativoTres.dll

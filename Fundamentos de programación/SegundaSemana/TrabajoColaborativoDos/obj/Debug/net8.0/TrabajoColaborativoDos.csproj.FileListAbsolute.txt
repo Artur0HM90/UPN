@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/TrabajoColaborativoDos/obj/Debug/net8.0/TrabajoColaborativoDos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/TrabajoColaborativoDos/obj/Debug/net8.0/TrabajoColaborativoDos.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/TrabajoColaborativoDos/obj/Debug/net8.0/TrabajoColaborativoDos.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/TrabajoColaborativoDos/obj/Debug/net8.0/TrabajoColaborativoDos.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/TrabajoColaborativoDos/obj/Debug/net8.0/TrabajoColaborativoDos.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/TrabajoColaborativoDos/bin/Debug/net8.0/TrabajoColaborativoDos
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/TrabajoColaborativoDos/bin/Debug/net8.0/TrabajoColaborativoDos.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/TrabajoColaborativoDos/bin/Debug/net8.0/TrabajoColaborativoDos.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/TrabajoColaborativoDos/bin/Debug/net8.0/TrabajoColaborativoDos.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/TrabajoColaborativoDos/bin/Debug/net8.0/TrabajoColaborativoDos.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/TrabajoColaborativoDos/obj/Debug/net8.0/TrabajoColaborativoDos.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/TrabajoColaborativoDos/obj/Debug/net8.0/refint/TrabajoColaborativoDos.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/TrabajoColaborativoDos/obj/Debug/net8.0/TrabajoColaborativoDos.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/TrabajoColaborativoDos/obj/Debug/net8.0/TrabajoColaborativoDos.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/TrabajoColaborativoDos/obj/Debug/net8.0/ref/TrabajoColaborativoDos.dll

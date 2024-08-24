@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/04_TrabajoColaborativoCuartro/obj/Debug/net8.0/04_TrabajoColaborativoCuartro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/04_TrabajoColaborativoCuartro/obj/Debug/net8.0/04_TrabajoColaborativoCuartro.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/04_TrabajoColaborativoCuartro/obj/Debug/net8.0/04_TrabajoColaborativoCuartro.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/04_TrabajoColaborativoCuartro/obj/Debug/net8.0/04_TrabajoColaborativoCuartro.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/04_TrabajoColaborativoCuartro/obj/Debug/net8.0/04_TrabajoColaborativoCuartro.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/04_TrabajoColaborativoCuartro/bin/Debug/net8.0/04_TrabajoColaborativoCuartro
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/04_TrabajoColaborativoCuartro/bin/Debug/net8.0/04_TrabajoColaborativoCuartro.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/04_TrabajoColaborativoCuartro/bin/Debug/net8.0/04_TrabajoColaborativoCuartro.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/04_TrabajoColaborativoCuartro/bin/Debug/net8.0/04_TrabajoColaborativoCuartro.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/04_TrabajoColaborativoCuartro/bin/Debug/net8.0/04_TrabajoColaborativoCuartro.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/04_TrabajoColaborativoCuartro/obj/Debug/net8.0/04_TrabajoColaborativoCuartro.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/04_TrabajoColaborativoCuartro/obj/Debug/net8.0/refint/04_TrabajoColaborativoCuartro.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/04_TrabajoColaborativoCuartro/obj/Debug/net8.0/04_TrabajoColaborativoCuartro.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/04_TrabajoColaborativoCuartro/obj/Debug/net8.0/04_TrabajoColaborativoCuartro.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/04_TrabajoColaborativoCuartro/obj/Debug/net8.0/ref/04_TrabajoColaborativoCuartro.dll

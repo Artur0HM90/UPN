@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/05_TrabajoColaborativoQuinto/bin/Debug/net8.0/04_TrabajoColaborativoQuinto
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/05_TrabajoColaborativoQuinto/bin/Debug/net8.0/04_TrabajoColaborativoQuinto.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/05_TrabajoColaborativoQuinto/bin/Debug/net8.0/04_TrabajoColaborativoQuinto.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/05_TrabajoColaborativoQuinto/bin/Debug/net8.0/04_TrabajoColaborativoQuinto.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/05_TrabajoColaborativoQuinto/bin/Debug/net8.0/04_TrabajoColaborativoQuinto.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/05_TrabajoColaborativoQuinto/obj/Debug/net8.0/04_TrabajoColaborativoQuinto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/05_TrabajoColaborativoQuinto/obj/Debug/net8.0/04_TrabajoColaborativoQuinto.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/05_TrabajoColaborativoQuinto/obj/Debug/net8.0/04_TrabajoColaborativoQuinto.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/05_TrabajoColaborativoQuinto/obj/Debug/net8.0/04_TrabajoColaborativoQuinto.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/05_TrabajoColaborativoQuinto/obj/Debug/net8.0/04_TrabajoColaborativoQuinto.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/05_TrabajoColaborativoQuinto/obj/Debug/net8.0/04_TrabajoColaborativoQuinto.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/05_TrabajoColaborativoQuinto/obj/Debug/net8.0/refint/04_TrabajoColaborativoQuinto.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/05_TrabajoColaborativoQuinto/obj/Debug/net8.0/04_TrabajoColaborativoQuinto.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/05_TrabajoColaborativoQuinto/obj/Debug/net8.0/04_TrabajoColaborativoQuinto.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/05_TrabajoColaborativoQuinto/obj/Debug/net8.0/ref/04_TrabajoColaborativoQuinto.dll

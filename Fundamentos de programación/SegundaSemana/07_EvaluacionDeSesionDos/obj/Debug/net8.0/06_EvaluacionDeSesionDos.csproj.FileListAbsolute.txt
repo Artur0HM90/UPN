@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/07_EvaluacionDeSesionDos/bin/Debug/net8.0/06_EvaluacionDeSesionDos
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/07_EvaluacionDeSesionDos/bin/Debug/net8.0/06_EvaluacionDeSesionDos.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/07_EvaluacionDeSesionDos/bin/Debug/net8.0/06_EvaluacionDeSesionDos.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/07_EvaluacionDeSesionDos/bin/Debug/net8.0/06_EvaluacionDeSesionDos.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/07_EvaluacionDeSesionDos/bin/Debug/net8.0/06_EvaluacionDeSesionDos.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/07_EvaluacionDeSesionDos/obj/Debug/net8.0/06_EvaluacionDeSesionDos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/07_EvaluacionDeSesionDos/obj/Debug/net8.0/06_EvaluacionDeSesionDos.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/07_EvaluacionDeSesionDos/obj/Debug/net8.0/06_EvaluacionDeSesionDos.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/07_EvaluacionDeSesionDos/obj/Debug/net8.0/06_EvaluacionDeSesionDos.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/07_EvaluacionDeSesionDos/obj/Debug/net8.0/06_EvaluacionDeSesionDos.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/07_EvaluacionDeSesionDos/obj/Debug/net8.0/06_EvaluacionDeSesionDos.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/07_EvaluacionDeSesionDos/obj/Debug/net8.0/refint/06_EvaluacionDeSesionDos.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/07_EvaluacionDeSesionDos/obj/Debug/net8.0/06_EvaluacionDeSesionDos.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/07_EvaluacionDeSesionDos/obj/Debug/net8.0/06_EvaluacionDeSesionDos.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/SegundaSemana/07_EvaluacionDeSesionDos/obj/Debug/net8.0/ref/06_EvaluacionDeSesionDos.dll

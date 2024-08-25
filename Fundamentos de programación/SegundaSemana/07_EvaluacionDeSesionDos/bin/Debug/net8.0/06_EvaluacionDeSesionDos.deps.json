@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "06_EvaluacionDeSesionDos/1.0.0": {
+        "runtime": {
+          "06_EvaluacionDeSesionDos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "06_EvaluacionDeSesionDos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

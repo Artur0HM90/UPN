@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04_TrabajoColaborativoQuinto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcb18d5afb0bba8f02299e998a8f2c47848f40ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa5204f02f043c9fc3cf95117674588511255664")]
 [assembly: System.Reflection.AssemblyProductAttribute("04_TrabajoColaborativoQuinto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04_TrabajoColaborativoQuinto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

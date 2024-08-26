@@ -3,18 +3,22 @@
 2. Realizar el algoritmo que me permite transformar horas a minutos
 */
 
-int horas, total, horaMinitos = 60;
+double horas, total, horaMinitos = 60;
 
 
 Console.Write("Ingrese una cifra en horas: ");
-horas = Convert.ToInt32(Console.ReadLine());
+horas = Convert.ToDouble(Console.ReadLine());
 total = horas * horaMinitos;
 if (horas == 1)
 {
     Console.Write($"{horas} hora a minutos es {total} minutos.");
 }
-else
+else if (horas > 1)
 {
+
+
+
+
     Console.Write($"{horas} horas a minutos es {total} minutos.");
 }
 

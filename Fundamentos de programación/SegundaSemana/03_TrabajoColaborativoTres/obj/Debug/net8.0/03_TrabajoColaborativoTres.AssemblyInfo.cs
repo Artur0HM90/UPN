@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03_TrabajoColaborativoTres")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da546c23837620945f9a350bf35a76a1e2c4fb77")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f5f5806adea2a86aa8942d388d138e88e69e0c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("03_TrabajoColaborativoTres")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03_TrabajoColaborativoTres")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

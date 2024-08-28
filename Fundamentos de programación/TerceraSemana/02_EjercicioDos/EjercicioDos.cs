@@ -47,4 +47,6 @@ else
 Console.WriteLine("El bono del trabajaor será: " + bono + " soles");
 Console.WriteLine("El sueldo bruto del trabajaor será: " + (sueldo + bono) + " soles");
 
+
+
 Console.ReadKey();

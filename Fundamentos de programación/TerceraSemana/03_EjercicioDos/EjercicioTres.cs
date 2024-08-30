@@ -24,7 +24,7 @@ double costoAdicional = 0.10, totalConElCostoAdicional;
 
 do
 {
-    Console.WriteLine("Ingresa edad: ");
+    Console.WriteLine("Ingresa que enferdad tiene: ");
     Console.WriteLine("1. Enfermedad");
     Console.WriteLine("2. Enfermedad");
     Console.WriteLine("3. Enfermedad");
@@ -32,7 +32,7 @@ do
     Console.WriteLine("5. Otras Enfermedad");
     Console.Write("Elige entre 1 - 5: ");
     ingresaCategoriaDeEnfermedad = Convert.ToInt32(Console.ReadLine());
-} while ((ingresaCategoriaDeEnfermedad != 1) && (ingresaCategoriaDeEnfermedad != 2) && (ingresaCategoriaDeEnfermedad != 3) && (ingresaCategoriaDeEnfermedad != 4) && (ingresaCategoriaDeEnfermedad != 5));
+} while (ingresaCategoriaDeEnfermedad < 1 || ingresaCategoriaDeEnfermedad > 5);
 
 do
 {

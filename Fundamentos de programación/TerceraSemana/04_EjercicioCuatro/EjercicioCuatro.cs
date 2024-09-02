@@ -38,7 +38,36 @@ ingresaCategoria = Console.ReadKey().KeyChar;
 Console.WriteLine();
 mayuscula = char.ToUpper(ingresaCategoria);
 
+Console.Write("Ingresa cuanto");
+
 if (ingresaCiclo == 1)
+{
+    Console.WriteLine($"Estas en el {ingresaCiclo} Ciclo.");
+
+    switch (mayuscula)
+    {
+        case 'A':
+            Console.WriteLine($"El alumno esta en la categoria: {mayuscula} y tiene una pensión de S/{pensionCategoria_A} soles.");
+            break;
+
+        case 'B':
+            Console.WriteLine($"El alumno esta en la categoria: {mayuscula} y tiene una pensión de S/{pensionCategoria_B} soles..");
+            break;
+
+        case 'C':
+            Console.WriteLine($"El alumno esta en la categoria: {mayuscula} y tiene una pensión de S/{pensionCategoria_C} soles..");
+            break;
+
+        case 'D':
+            Console.WriteLine($"El alumno esta en la categoria: {mayuscula} y tiene una pensión de S/{pensionCategoria_D} soles..");
+            break;
+
+        default:
+            Console.WriteLine("ERROR - Debes ingresar A - B - C - D.");
+            break;
+    }
+}
+else
 {
     Console.WriteLine($"Estas en el {ingresaCiclo} Ciclo.");
 
@@ -64,9 +93,4 @@ if (ingresaCiclo == 1)
             Console.WriteLine("ERROR - Debes ingresar A - B - C - D.");
             break;
     }
-
-}
-else
-{
-    Console.WriteLine("");
 }

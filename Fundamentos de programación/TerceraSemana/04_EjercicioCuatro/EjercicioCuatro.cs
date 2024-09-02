@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
 /*
 En una universidad, los alumnos están clasificados en cuatro categorías. A cada categoría le corresponde una pensión mensual distinta dada en la siguiente tabla.,
 
@@ -18,3 +19,54 @@ Promedio            Descuento
 Dado el promedio ponderado y la categoría de un estudiante, diseñe un programa que determine cuánto de rebaja recibirá sobre su pensión actual y a cuánto asciende su nueva pensión.
 
 */
+
+int pensionCategoria_A = 550, pensionCategoria_B = 500, pensionCategoria_C = 460, pensionCategoria_D = 400;
+int ingresaCiclo;
+char ingresaCategoria;
+double ingresaPromedioFinal = 0;
+char mayuscula;
+//string primeraCategoria = "A", segundaCategoria = "B", terceraCategoria = "C", cuartaCategoria = "D";
+
+do
+{
+    Console.Write("Ingrese en que ciclo esta el alumno: ");
+    ingresaCiclo = Convert.ToInt32(Console.ReadLine());
+} while (ingresaCiclo < 1 || ingresaCiclo > 10);
+
+Console.Write("Ingresa en que categoria estan el alumno: ");
+ingresaCategoria = Console.ReadKey().KeyChar;
+Console.WriteLine();
+mayuscula = char.ToUpper(ingresaCategoria);
+
+if (ingresaCiclo == 1)
+{
+    Console.WriteLine($"Estas en el {ingresaCiclo} Ciclo.");
+
+    switch (mayuscula)
+    {
+        case 'A':
+            Console.WriteLine($"El alumno esta en la categoria: {mayuscula}.");
+            break;
+
+        case 'B':
+            Console.WriteLine($"El alumno esta en la categoria: {mayuscula}.");
+            break;
+
+        case 'C':
+            Console.WriteLine($"El alumno esta en la categoria: {mayuscula}.");
+            break;
+
+        case 'D':
+            Console.WriteLine($"El alumno esta en la categoria: {mayuscula}.");
+            break;
+
+        default:
+            Console.WriteLine("ERROR - Debes ingresar A - B - C - D.");
+            break;
+    }
+
+}
+else
+{
+    Console.WriteLine("");
+}

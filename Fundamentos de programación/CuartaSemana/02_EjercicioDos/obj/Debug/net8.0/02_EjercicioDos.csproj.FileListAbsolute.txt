@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/CuartaSemana/02_EjercicioDos/bin/Debug/net8.0/02_EjercicioDos
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/CuartaSemana/02_EjercicioDos/bin/Debug/net8.0/02_EjercicioDos.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/CuartaSemana/02_EjercicioDos/bin/Debug/net8.0/02_EjercicioDos.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/CuartaSemana/02_EjercicioDos/bin/Debug/net8.0/02_EjercicioDos.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/CuartaSemana/02_EjercicioDos/bin/Debug/net8.0/02_EjercicioDos.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/CuartaSemana/02_EjercicioDos/obj/Debug/net8.0/02_EjercicioDos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/CuartaSemana/02_EjercicioDos/obj/Debug/net8.0/02_EjercicioDos.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/CuartaSemana/02_EjercicioDos/obj/Debug/net8.0/02_EjercicioDos.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/CuartaSemana/02_EjercicioDos/obj/Debug/net8.0/02_EjercicioDos.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/CuartaSemana/02_EjercicioDos/obj/Debug/net8.0/02_EjercicioDos.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/CuartaSemana/02_EjercicioDos/obj/Debug/net8.0/02_EjercicioDos.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/CuartaSemana/02_EjercicioDos/obj/Debug/net8.0/refint/02_EjercicioDos.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/CuartaSemana/02_EjercicioDos/obj/Debug/net8.0/02_EjercicioDos.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/CuartaSemana/02_EjercicioDos/obj/Debug/net8.0/02_EjercicioDos.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/CuartaSemana/02_EjercicioDos/obj/Debug/net8.0/ref/02_EjercicioDos.dll

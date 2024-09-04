@@ -20,10 +20,13 @@ Dado el promedio ponderado y la categoría de un estudiante, diseñe un programa
 
 */
 
+using System.Globalization;
+
 int pensionCategoria_A = 550, pensionCategoria_B = 500, pensionCategoria_C = 460, pensionCategoria_D = 400;
+double primerDescuento = 0.10, segundoDescuento = 0.12, tercerDescuento = 0.15;
 int ingresaCiclo;
 char ingresaCategoria;
-double ingresaPromedioFinal = 0;
+double ingresaPromedioFinal;
 char mayuscula;
 //string primeraCategoria = "A", segundaCategoria = "B", terceraCategoria = "C", cuartaCategoria = "D";
 
@@ -33,12 +36,22 @@ do
     ingresaCiclo = Convert.ToInt32(Console.ReadLine());
 } while (ingresaCiclo < 1 || ingresaCiclo > 10);
 
-Console.Write("Ingresa en que categoria estan el alumno: ");
-ingresaCategoria = Console.ReadKey().KeyChar;
-Console.WriteLine();
-mayuscula = char.ToUpper(ingresaCategoria);
+do
+{
+    Console.Write("Ingresa en que categoria estan el alumno: ");
+    ingresaCategoria = Console.ReadKey().KeyChar;
+    Console.WriteLine();
+    mayuscula = char.ToUpper(ingresaCategoria);
+} while (mayuscula != 'A' && mayuscula != 'B' && mayuscula != 'C' && mayuscula != 'D');
 
-Console.Write("Ingresa cuanto");
+do
+{
+    Console.Write("Ingresa cuanto el promedio del alumno: ");
+    ingresaPromedioFinal = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
+} while (ingresaPromedioFinal < 0 || ingresaPromedioFinal > 20);
+
+
+
 
 if (ingresaCiclo == 1)
 {
@@ -48,18 +61,22 @@ if (ingresaCiclo == 1)
     {
         case 'A':
             Console.WriteLine($"El alumno esta en la categoria: {mayuscula} y tiene una pensión de S/{pensionCategoria_A} soles.");
+            Console.WriteLine($"El promedio final es: {ingresaPromedioFinal}.");
             break;
 
         case 'B':
-            Console.WriteLine($"El alumno esta en la categoria: {mayuscula} y tiene una pensión de S/{pensionCategoria_B} soles..");
+            Console.WriteLine($"El alumno esta en la categoria: {mayuscula} y tiene una pensión de S/{pensionCategoria_B} soles.");
+            Console.WriteLine($"El promedio final es: {ingresaPromedioFinal}.");
             break;
 
         case 'C':
-            Console.WriteLine($"El alumno esta en la categoria: {mayuscula} y tiene una pensión de S/{pensionCategoria_C} soles..");
+            Console.WriteLine($"El alumno esta en la categoria: {mayuscula} y tiene una pensión de S/{pensionCategoria_C} soles.");
+            Console.WriteLine($"El promedio final es: {ingresaPromedioFinal}.");
             break;
 
         case 'D':
-            Console.WriteLine($"El alumno esta en la categoria: {mayuscula} y tiene una pensión de S/{pensionCategoria_D} soles..");
+            Console.WriteLine($"El alumno esta en la categoria: {mayuscula} y tiene una pensión de S/{pensionCategoria_D} soles.");
+            Console.WriteLine($"El promedio final es: {ingresaPromedioFinal}.");
             break;
 
         default:

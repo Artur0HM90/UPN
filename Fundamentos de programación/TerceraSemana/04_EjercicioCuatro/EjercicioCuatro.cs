@@ -92,18 +92,82 @@ else
     {
         case 'A':
             Console.WriteLine($"El alumno esta en la categoria: {mayuscula}.");
+            if (ingresaPromedioFinal >= 0 && ingresaPromedioFinal <= 13.99)
+            {
+                Console.WriteLine("Hollla");
+            }
+            else if (ingresaPromedioFinal >= 14 && ingresaPromedioFinal <= 15.99)
+            {
+                Console.WriteLine("Hollxxxxla");
+            }
+            else if (ingresaPromedioFinal >= 16 && ingresaPromedioFinal <= 17.99)
+            {
+                Console.WriteLine("HollxxxClauxla");
+            }
+            else
+            {
+                Console.WriteLine("415646545646");
+            }
             break;
 
         case 'B':
             Console.WriteLine($"El alumno esta en la categoria: {mayuscula}.");
+            if (ingresaPromedioFinal >= 0 && ingresaPromedioFinal <= 13.99)
+            {
+                Console.WriteLine("Hollla");
+            }
+            else if (ingresaPromedioFinal >= 14 && ingresaPromedioFinal <= 15.99)
+            {
+                Console.WriteLine("Hollxxxxla");
+            }
+            else if (ingresaPromedioFinal >= 16 && ingresaPromedioFinal <= 17.99)
+            {
+                Console.WriteLine("HollxxxClauxla");
+            }
+            else
+            {
+                Console.WriteLine("415646545646");
+            }
             break;
 
         case 'C':
             Console.WriteLine($"El alumno esta en la categoria: {mayuscula}.");
+            if (ingresaPromedioFinal >= 0 && ingresaPromedioFinal <= 13.99)
+            {
+                Console.WriteLine("Hollla");
+            }
+            else if (ingresaPromedioFinal >= 14 && ingresaPromedioFinal <= 15.99)
+            {
+                Console.WriteLine("Hollxxxxla");
+            }
+            else if (ingresaPromedioFinal >= 16 && ingresaPromedioFinal <= 17.99)
+            {
+                Console.WriteLine("HollxxxClauxla");
+            }
+            else
+            {
+                Console.WriteLine("415646545646");
+            }
             break;
 
         case 'D':
             Console.WriteLine($"El alumno esta en la categoria: {mayuscula}.");
+            if (ingresaPromedioFinal >= 0 && ingresaPromedioFinal <= 13.99)
+            {
+                Console.WriteLine("Hollla");
+            }
+            else if (ingresaPromedioFinal >= 14 && ingresaPromedioFinal <= 15.99)
+            {
+                Console.WriteLine("Hollxxxxla");
+            }
+            else if (ingresaPromedioFinal >= 16 && ingresaPromedioFinal <= 17.99)
+            {
+                Console.WriteLine("HollxxxClauxla");
+            }
+            else
+            {
+                Console.WriteLine("415646545646");
+            }
             break;
 
         default:

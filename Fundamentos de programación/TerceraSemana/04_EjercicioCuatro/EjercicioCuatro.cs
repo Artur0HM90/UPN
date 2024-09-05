@@ -26,7 +26,7 @@ int pensionCategoria_A = 550, pensionCategoria_B = 500, pensionCategoria_C = 460
 double primerDescuento = 0.10, segundoDescuento = 0.12, tercerDescuento = 0.15;
 int ingresaCiclo;
 char ingresaCategoria;
-double ingresaPromedioFinal;
+double ingresaPromedioFinal, descuento = 0, total = 0;
 char mayuscula;
 //string primeraCategoria = "A", segundaCategoria = "B", terceraCategoria = "C", cuartaCategoria = "D";
 
@@ -94,19 +94,22 @@ else
             Console.WriteLine($"El alumno esta en la categoria: {mayuscula}.");
             if (ingresaPromedioFinal >= 0 && ingresaPromedioFinal <= 13.99)
             {
-                Console.WriteLine("Hollla");
+                Console.WriteLine($"La pensiones : S/{pensionCategoria_A} soles.");
             }
             else if (ingresaPromedioFinal >= 14 && ingresaPromedioFinal <= 15.99)
             {
-                Console.WriteLine("Hollxxxxla");
+                descuento = pensionCategoria_A * primerDescuento;
+                total = pensionCategoria_A - descuento;
             }
             else if (ingresaPromedioFinal >= 16 && ingresaPromedioFinal <= 17.99)
             {
-                Console.WriteLine("HollxxxClauxla");
+                descuento = pensionCategoria_A * segundoDescuento;
+                total = pensionCategoria_A - descuento;
             }
             else
             {
-                Console.WriteLine("415646545646");
+                descuento = pensionCategoria_A * tercerDescuento;
+                total = pensionCategoria_A - descuento;
             }
             break;
 
@@ -114,19 +117,22 @@ else
             Console.WriteLine($"El alumno esta en la categoria: {mayuscula}.");
             if (ingresaPromedioFinal >= 0 && ingresaPromedioFinal <= 13.99)
             {
-                Console.WriteLine("Hollla");
+                Console.WriteLine($"La pensiones : S/{pensionCategoria_B} soles.");
             }
             else if (ingresaPromedioFinal >= 14 && ingresaPromedioFinal <= 15.99)
             {
-                Console.WriteLine("Hollxxxxla");
+                descuento = pensionCategoria_B * primerDescuento;
+                total = pensionCategoria_B - descuento;
             }
             else if (ingresaPromedioFinal >= 16 && ingresaPromedioFinal <= 17.99)
             {
-                Console.WriteLine("HollxxxClauxla");
+                descuento = pensionCategoria_B * segundoDescuento;
+                total = pensionCategoria_B - descuento;
             }
             else
             {
-                Console.WriteLine("415646545646");
+                descuento = pensionCategoria_B * tercerDescuento;
+                total = pensionCategoria_B - descuento;
             }
             break;
 
@@ -134,19 +140,23 @@ else
             Console.WriteLine($"El alumno esta en la categoria: {mayuscula}.");
             if (ingresaPromedioFinal >= 0 && ingresaPromedioFinal <= 13.99)
             {
-                Console.WriteLine("Hollla");
+                Console.WriteLine($"La pensiones : S/{pensionCategoria_C} soles.");
             }
             else if (ingresaPromedioFinal >= 14 && ingresaPromedioFinal <= 15.99)
             {
-                Console.WriteLine("Hollxxxxla");
+                descuento = pensionCategoria_C * primerDescuento;
+                total = pensionCategoria_C - descuento;
+
             }
             else if (ingresaPromedioFinal >= 16 && ingresaPromedioFinal <= 17.99)
             {
-                Console.WriteLine("HollxxxClauxla");
+                descuento = pensionCategoria_C * segundoDescuento;
+                total = pensionCategoria_C - descuento;
             }
             else
             {
-                Console.WriteLine("415646545646");
+                descuento = pensionCategoria_C * tercerDescuento;
+                total = pensionCategoria_C - descuento;
             }
             break;
 
@@ -154,19 +164,22 @@ else
             Console.WriteLine($"El alumno esta en la categoria: {mayuscula}.");
             if (ingresaPromedioFinal >= 0 && ingresaPromedioFinal <= 13.99)
             {
-                Console.WriteLine("Hollla");
+                Console.WriteLine($"La pensiones : S/{pensionCategoria_D} soles.");
             }
             else if (ingresaPromedioFinal >= 14 && ingresaPromedioFinal <= 15.99)
             {
-                Console.WriteLine("Hollxxxxla");
+                descuento = pensionCategoria_D * primerDescuento;
+                total = pensionCategoria_D - descuento;
             }
             else if (ingresaPromedioFinal >= 16 && ingresaPromedioFinal <= 17.99)
             {
-                Console.WriteLine("HollxxxClauxla");
+                descuento = pensionCategoria_D * segundoDescuento;
+                total = pensionCategoria_D - descuento;
             }
             else
             {
-                Console.WriteLine("415646545646");
+                descuento = pensionCategoria_D * tercerDescuento;
+                total = pensionCategoria_D - descuento;
             }
             break;
 
@@ -174,4 +187,7 @@ else
             Console.WriteLine("ERROR - Debes ingresar A - B - C - D.");
             break;
     }
+    Console.WriteLine($"Pension mensual sin descuentos: S/{descuento + total} soles.");
+    Console.WriteLine($"Por tu promedio final de {ingresaPromedioFinal}. Tienes un descuento de: S/{descuento} soles.");
+    Console.WriteLine($"Total a pagar es de: S/{total} soles");
 }

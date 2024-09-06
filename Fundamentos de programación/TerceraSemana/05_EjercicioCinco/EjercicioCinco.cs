@@ -24,12 +24,12 @@ Dado el tipo de chocolate y la cantidad de unidades adquiridas, diseñe un progr
 
 using System.Net.Quic;
 
-int eligeTipoDeChocolate, cantidadDechocolates;
-int carameloObsequioMayor = 3, carameloObsequioMenor = 2;
+int eligeTipoDeChocolate, cantidadDechocolates; // cantidades
+int carameloObsequioMayor = 3, carameloObsequioMenor = 2; // obsequios
 double precioPrimor = 8.5, precioDulzura = 10, precioTentacion = 7, precioExplosion = 12.5; // precios
 double primerDescuento = 0.04, segundoDescuento = 0.065, tercerDescuento = 0.09, cuartoDescuento = 0.115; // descuentos
-double precioPorChocolates = 0, descuento = 0, total = 0;
-int totalDeCaramelos = 0;
+double precioPorChocolates = 0, descuento = 0, total = 0; // resultados
+int totalDeCaramelos = 0; // resultados
 
 do
 {

@@ -18,6 +18,7 @@ for (int i = 1; i <= ingresaNumeros; i++)
 promedio = suma / ingresaNumeros;
 Console.WriteLine($"La suma es: {suma}.");
 Console.WriteLine($"El promedio es: {promedio}.");
+
 /*
 Console.WriteLine($"Número mayor es : {ingresaNumerosLista.Max()}");
 Console.WriteLine($"Número menor es : {ingresaNumerosLista.Min()}");

@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/03_EjercicioTres/bin/Debug/net8.0/03_EjercicioTres
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/03_EjercicioTres/bin/Debug/net8.0/03_EjercicioTres.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/03_EjercicioTres/bin/Debug/net8.0/03_EjercicioTres.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/03_EjercicioTres/bin/Debug/net8.0/03_EjercicioTres.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/03_EjercicioTres/bin/Debug/net8.0/03_EjercicioTres.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/03_EjercicioTres/obj/Debug/net8.0/03_EjercicioTres.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/03_EjercicioTres/obj/Debug/net8.0/03_EjercicioTres.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/03_EjercicioTres/obj/Debug/net8.0/03_EjercicioTres.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/03_EjercicioTres/obj/Debug/net8.0/03_EjercicioTres.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/03_EjercicioTres/obj/Debug/net8.0/03_EjercicioTres.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/03_EjercicioTres/obj/Debug/net8.0/03_EjercicioTres.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/03_EjercicioTres/obj/Debug/net8.0/refint/03_EjercicioTres.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/03_EjercicioTres/obj/Debug/net8.0/03_EjercicioTres.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/03_EjercicioTres/obj/Debug/net8.0/03_EjercicioTres.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/03_EjercicioTres/obj/Debug/net8.0/ref/03_EjercicioTres.dll

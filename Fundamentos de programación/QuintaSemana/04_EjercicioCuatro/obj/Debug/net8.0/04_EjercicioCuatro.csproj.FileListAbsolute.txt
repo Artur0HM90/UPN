@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/04_EjercicioCuatro/bin/Debug/net8.0/04_EjercicioCuatro
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/04_EjercicioCuatro/bin/Debug/net8.0/04_EjercicioCuatro.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/04_EjercicioCuatro/bin/Debug/net8.0/04_EjercicioCuatro.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/04_EjercicioCuatro/bin/Debug/net8.0/04_EjercicioCuatro.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/04_EjercicioCuatro/bin/Debug/net8.0/04_EjercicioCuatro.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/04_EjercicioCuatro/obj/Debug/net8.0/04_EjercicioCuatro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/04_EjercicioCuatro/obj/Debug/net8.0/04_EjercicioCuatro.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/04_EjercicioCuatro/obj/Debug/net8.0/04_EjercicioCuatro.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/04_EjercicioCuatro/obj/Debug/net8.0/04_EjercicioCuatro.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/04_EjercicioCuatro/obj/Debug/net8.0/04_EjercicioCuatro.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/04_EjercicioCuatro/obj/Debug/net8.0/04_EjercicioCuatro.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/04_EjercicioCuatro/obj/Debug/net8.0/refint/04_EjercicioCuatro.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/04_EjercicioCuatro/obj/Debug/net8.0/04_EjercicioCuatro.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/04_EjercicioCuatro/obj/Debug/net8.0/04_EjercicioCuatro.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/04_EjercicioCuatro/obj/Debug/net8.0/ref/04_EjercicioCuatro.dll

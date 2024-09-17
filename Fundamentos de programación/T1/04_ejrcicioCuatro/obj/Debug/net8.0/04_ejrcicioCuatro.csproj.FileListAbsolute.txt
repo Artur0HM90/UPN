@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/04_ejrcicioCuatro/bin/Debug/net8.0/04_ejrcicioCuatro
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/04_ejrcicioCuatro/bin/Debug/net8.0/04_ejrcicioCuatro.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/04_ejrcicioCuatro/bin/Debug/net8.0/04_ejrcicioCuatro.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/04_ejrcicioCuatro/bin/Debug/net8.0/04_ejrcicioCuatro.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/04_ejrcicioCuatro/bin/Debug/net8.0/04_ejrcicioCuatro.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/04_ejrcicioCuatro/obj/Debug/net8.0/04_ejrcicioCuatro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/04_ejrcicioCuatro/obj/Debug/net8.0/04_ejrcicioCuatro.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/04_ejrcicioCuatro/obj/Debug/net8.0/04_ejrcicioCuatro.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/04_ejrcicioCuatro/obj/Debug/net8.0/04_ejrcicioCuatro.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/04_ejrcicioCuatro/obj/Debug/net8.0/04_ejrcicioCuatro.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/04_ejrcicioCuatro/obj/Debug/net8.0/04_ejrcicioCuatro.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/04_ejrcicioCuatro/obj/Debug/net8.0/refint/04_ejrcicioCuatro.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/04_ejrcicioCuatro/obj/Debug/net8.0/04_ejrcicioCuatro.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/04_ejrcicioCuatro/obj/Debug/net8.0/04_ejrcicioCuatro.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/04_ejrcicioCuatro/obj/Debug/net8.0/ref/04_ejrcicioCuatro.dll

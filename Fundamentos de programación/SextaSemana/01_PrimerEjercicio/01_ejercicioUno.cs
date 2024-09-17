@@ -14,6 +14,10 @@ do
     Console.Write("[4] División\n");
     Console.Write("Elige entre 1 - 4: ");
     opcion = Convert.ToInt32(Console.ReadLine());
+    if (opcion < 0 || opcion > 4)
+    {
+        Console.WriteLine("Error: Solo puedes ingresar del 1 al 4.\n");
+    }
 } while (opcion < 0 || opcion > 4);
 
 

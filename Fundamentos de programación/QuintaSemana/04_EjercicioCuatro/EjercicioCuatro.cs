@@ -20,5 +20,5 @@ while (ingresaNumero > 7)
     {
         Console.WriteLine($"Número es impar: {ingresaNumero}");
     }
-    contdor++;
 }
+*/

@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/03_ejrcicioTres/obj/Debug/net8.0/03_ejercicioTres.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/03_ejrcicioTres/obj/Debug/net8.0/03_ejercicioTres.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/03_ejrcicioTres/obj/Debug/net8.0/03_ejercicioTres.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/03_ejrcicioTres/obj/Debug/net8.0/03_ejercicioTres.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/03_ejrcicioTres/obj/Debug/net8.0/03_ejercicioTres.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/03_ejrcicioTres/bin/Debug/net8.0/03_ejercicioTres
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/03_ejrcicioTres/bin/Debug/net8.0/03_ejercicioTres.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/03_ejrcicioTres/bin/Debug/net8.0/03_ejercicioTres.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/03_ejrcicioTres/bin/Debug/net8.0/03_ejercicioTres.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/03_ejrcicioTres/bin/Debug/net8.0/03_ejercicioTres.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/03_ejrcicioTres/obj/Debug/net8.0/03_ejercicioTres.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/03_ejrcicioTres/obj/Debug/net8.0/refint/03_ejercicioTres.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/03_ejrcicioTres/obj/Debug/net8.0/03_ejercicioTres.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/03_ejrcicioTres/obj/Debug/net8.0/03_ejercicioTres.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T1/03_ejrcicioTres/obj/Debug/net8.0/ref/03_ejercicioTres.dll

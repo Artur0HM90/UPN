@@ -6,19 +6,34 @@ WHILE, desarrolle el siguiente enunciado.
 Utilizando la sentencia WHILE se pide ingresar 6 números enteros positivos, luego, mostrar la cantidad de pares e impares ingresados.
 */
 
-int ingresaNumero;
-int contdor = 0;
-while (ingresaNumero > 7)
+int contador = 0, Numero = 0;
+
+
+
+
+Console.Write("Ingresa cuantos números vas inghresar: ");
+Numero = int.Parse(Console.ReadLine());
+
+int[] Numeros = new int[Numero];
+
+while (contador < Numero)
 {
-    Console.Write("Ingresa un número: ");
-    ingresaNumero = Convert.ToInt32(Console.ReadLine());
-    if (ingresaNumero % 2 == 0)
+    Console.Write($"Ingresa {contador + 1} número: ");
+    Numeros[contador] = int.Parse(Console.ReadLine());
+    contador++;
+}
+
+Console.WriteLine("Resultados");
+contador = 0;
+while (contador < Numero)
+{
+    if (Numeros[contador] % 2 == 0)
     {
-        Console.WriteLine($"Número es par: {ingresaNumero}");
+        Console.WriteLine($"El número {Numeros[contador]} es par.");
     }
     else
     {
-        Console.WriteLine($"Número es impar: {ingresaNumero}");
+        Console.WriteLine($"El número {Numeros[contador]} es impar.");
     }
+    contador++;
 }
-*/

@@ -25,7 +25,7 @@ while (numero >= 0)
             resultado += i;
         }
         Console.WriteLine("==================");
-        Console.WriteLine($"  La suma es: {resultado}");
+        Console.WriteLine($"  La suma es: {i}");
         Console.WriteLine("==================");
         break;
     }

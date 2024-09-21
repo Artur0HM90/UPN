@@ -8,9 +8,6 @@ Utilizando la sentencia WHILE se pide ingresar 6 números enteros positivos, lue
 
 int contador = 0, Numero = 0;
 
-
-
-
 Console.Write("Ingresa cuantos números vas inghresar: ");
 Numero = int.Parse(Console.ReadLine());
 
@@ -37,3 +34,4 @@ while (contador < Numero)
     }
     contador++;
 }
+

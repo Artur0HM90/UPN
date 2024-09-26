@@ -48,7 +48,7 @@ capitalFinal = capital * (1 + (interes / 100) * tiempo);
 
 Console.WriteLine($"\ncapital final es de S/{capitalFinal} soles.");
 
-/*
+/* seudocódigo
 Algoritmo CalculoPrestamo
 	
     Definir capital, interes, tiempo, capitalFinal Como Real

@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/06_EjercicioSexto/bin/Debug/net8.0/06_EjercicioSexto
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/06_EjercicioSexto/bin/Debug/net8.0/06_EjercicioSexto.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/06_EjercicioSexto/bin/Debug/net8.0/06_EjercicioSexto.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/06_EjercicioSexto/bin/Debug/net8.0/06_EjercicioSexto.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/06_EjercicioSexto/bin/Debug/net8.0/06_EjercicioSexto.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/06_EjercicioSexto/obj/Debug/net8.0/06_EjercicioSexto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/06_EjercicioSexto/obj/Debug/net8.0/06_EjercicioSexto.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/06_EjercicioSexto/obj/Debug/net8.0/06_EjercicioSexto.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/06_EjercicioSexto/obj/Debug/net8.0/06_EjercicioSexto.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/06_EjercicioSexto/obj/Debug/net8.0/06_EjercicioSexto.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/06_EjercicioSexto/obj/Debug/net8.0/06_EjercicioSexto.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/06_EjercicioSexto/obj/Debug/net8.0/refint/06_EjercicioSexto.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/06_EjercicioSexto/obj/Debug/net8.0/06_EjercicioSexto.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/06_EjercicioSexto/obj/Debug/net8.0/06_EjercicioSexto.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/QuintaSemana/06_EjercicioSexto/obj/Debug/net8.0/ref/06_EjercicioSexto.dll

@@ -151,17 +151,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * primerDescuento);
+                descuento = categoria_B * primerDescuento;
+                mensualidad = categoria_B - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * segundoDescuento);
+                descuento = categoria_B * segundoDescuento;
+                mensualidad = categoria_B - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * tercerDescuento);
+                descuento = categoria_B * tercerDescuento;
+                mensualidad = categoria_B - descuento;
             }
             Console.WriteLine($"Estas en la categoria {segundaCategoria}");
         }
@@ -175,17 +178,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * primerDescuento);
+                descuento = categoria_C * primerDescuento;
+                mensualidad = categoria_C - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * segundoDescuento);
+                descuento = categoria_C * segundoDescuento;
+                mensualidad = categoria_C - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * tercerDescuento);
+                descuento = categoria_C * tercerDescuento;
+                mensualidad = categoria_C - descuento;
             }
             Console.WriteLine($"Estas en la categoria {terceraCategoria}");
         }
@@ -199,17 +205,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * primerDescuento);
+                descuento = categoria_D * primerDescuento;
+                mensualidad = categoria_D - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * segundoDescuento);
+                descuento = categoria_D * segundoDescuento;
+                mensualidad = categoria_D - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * tercerDescuento);
+                descuento = categoria_D * tercerDescuento;
+                mensualidad = categoria_D - descuento;
             }
             Console.WriteLine($"Estas en la categoria {cuartaCategoria}");
         }
@@ -228,17 +237,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * primerDescuento);
+                descuento = categoria_A * primerDescuento;
+                mensualidad = categoria_A - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * segundoDescuento);
+                descuento = categoria_A * segundoDescuento;
+                mensualidad = categoria_A - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * tercerDescuento);
+                descuento = categoria_A * tercerDescuento;
+                mensualidad = categoria_A - descuento;
             }
             Console.WriteLine($"Estas en la categoria {primerCategoria}");
         }
@@ -252,17 +264,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * primerDescuento);
+                descuento = categoria_B * primerDescuento;
+                mensualidad = categoria_B - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * segundoDescuento);
+                descuento = categoria_B * segundoDescuento;
+                mensualidad = categoria_B - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * tercerDescuento);
+                descuento = categoria_B * tercerDescuento;
+                mensualidad = categoria_B - descuento;
             }
             Console.WriteLine($"Estas en la categoria {segundaCategoria}");
         }
@@ -276,17 +291,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * primerDescuento);
+                descuento = categoria_C * primerDescuento;
+                mensualidad = categoria_C - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * segundoDescuento);
+                descuento = categoria_C * segundoDescuento;
+                mensualidad = categoria_C - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * tercerDescuento);
+                descuento = categoria_C * tercerDescuento;
+                mensualidad = categoria_C - descuento;
             }
             Console.WriteLine($"Estas en la categoria {terceraCategoria}");
         }
@@ -300,17 +318,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * primerDescuento);
+                descuento = categoria_D * primerDescuento;
+                mensualidad = categoria_D - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * segundoDescuento);
+                descuento = categoria_D * segundoDescuento;
+                mensualidad = categoria_D - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * tercerDescuento);
+                descuento = categoria_D * tercerDescuento;
+                mensualidad = categoria_D - descuento;
             }
             Console.WriteLine($"Estas en la categoria {cuartaCategoria}");
         }
@@ -329,17 +350,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * primerDescuento);
+                descuento = categoria_A * primerDescuento;
+                mensualidad = categoria_A - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * segundoDescuento);
+                descuento = categoria_A * segundoDescuento;
+                mensualidad = categoria_A - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * tercerDescuento);
+                descuento = categoria_A * tercerDescuento;
+                mensualidad = categoria_A - descuento;
             }
             Console.WriteLine($"Estas en la categoria {primerCategoria}");
         }
@@ -353,17 +377,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * primerDescuento);
+                descuento = categoria_B * primerDescuento;
+                mensualidad = categoria_B - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * segundoDescuento);
+                descuento = categoria_B * segundoDescuento;
+                mensualidad = categoria_B - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * tercerDescuento);
+                descuento = categoria_B * tercerDescuento;
+                mensualidad = categoria_B - descuento;
             }
             Console.WriteLine($"Estas en la categoria {segundaCategoria}");
         }
@@ -377,17 +404,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * primerDescuento);
+                descuento = categoria_C * primerDescuento;
+                mensualidad = categoria_C - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * segundoDescuento);
+                descuento = categoria_C * segundoDescuento;
+                mensualidad = categoria_C - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * tercerDescuento);
+                descuento = categoria_C * tercerDescuento;
+                mensualidad = categoria_C - descuento;
             }
             Console.WriteLine($"Estas en la categoria {terceraCategoria}");
         }
@@ -401,17 +431,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * primerDescuento);
+                descuento = categoria_D * primerDescuento;
+                mensualidad = categoria_D - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * segundoDescuento);
+                descuento = categoria_D * segundoDescuento;
+                mensualidad = categoria_D - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * tercerDescuento);
+                descuento = categoria_D * tercerDescuento;
+                mensualidad = categoria_D - descuento;
             }
             Console.WriteLine($"Estas en la categoria {cuartaCategoria}");
         }
@@ -430,17 +463,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * primerDescuento);
+                descuento = categoria_A * primerDescuento;
+                mensualidad = categoria_A - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * segundoDescuento);
+                descuento = categoria_A * segundoDescuento;
+                mensualidad = categoria_A - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * tercerDescuento);
+                descuento = categoria_A * tercerDescuento;
+                mensualidad = categoria_A - descuento;
             }
             Console.WriteLine($"Estas en la categoria {primerCategoria}");
         }
@@ -454,17 +490,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * primerDescuento);
+                descuento = categoria_B * primerDescuento;
+                mensualidad = categoria_B - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * segundoDescuento);
+                descuento = categoria_B * segundoDescuento;
+                mensualidad = categoria_B - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * tercerDescuento);
+                descuento = categoria_B * tercerDescuento;
+                mensualidad = categoria_B - descuento;
             }
             Console.WriteLine($"Estas en la categoria {segundaCategoria}");
         }
@@ -478,17 +517,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * primerDescuento);
+                descuento = categoria_C * primerDescuento;
+                mensualidad = categoria_C - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * segundoDescuento);
+                descuento = categoria_C * segundoDescuento;
+                mensualidad = categoria_C - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * tercerDescuento);
+                descuento = categoria_C * tercerDescuento;
+                mensualidad = categoria_C - descuento;
             }
             Console.WriteLine($"Estas en la categoria {terceraCategoria}");
         }
@@ -502,17 +544,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * primerDescuento);
+                descuento = categoria_D * primerDescuento;
+                mensualidad = categoria_D - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * segundoDescuento);
+                descuento = categoria_D * segundoDescuento;
+                mensualidad = categoria_D - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * tercerDescuento);
+                descuento = categoria_D * tercerDescuento;
+                mensualidad = categoria_D - descuento;
             }
             Console.WriteLine($"Estas en la categoria {cuartaCategoria}");
         }
@@ -531,17 +576,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * primerDescuento);
+                descuento = categoria_A * primerDescuento;
+                mensualidad = categoria_A - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * segundoDescuento);
+                descuento = categoria_A * segundoDescuento;
+                mensualidad = categoria_A - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * tercerDescuento);
+                descuento = categoria_A * tercerDescuento;
+                mensualidad = categoria_A - descuento;
             }
             Console.WriteLine($"Estas en la categoria {primerCategoria}");
         }
@@ -555,17 +603,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * primerDescuento);
+                descuento = categoria_B * primerDescuento;
+                mensualidad = categoria_B - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * segundoDescuento);
+                descuento = categoria_B * segundoDescuento;
+                mensualidad = categoria_B - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * tercerDescuento);
+                descuento = categoria_B * tercerDescuento;
+                mensualidad = categoria_B - descuento;
             }
             Console.WriteLine($"Estas en la categoria {segundaCategoria}");
         }
@@ -579,17 +630,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * primerDescuento);
+                descuento = categoria_C * primerDescuento;
+                mensualidad = categoria_C - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * segundoDescuento);
+                descuento = categoria_C * segundoDescuento;
+                mensualidad = categoria_C - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * tercerDescuento);
+                descuento = categoria_C * tercerDescuento;
+                mensualidad = categoria_C - descuento;
             }
             Console.WriteLine($"Estas en la categoria {terceraCategoria}");
         }
@@ -603,17 +657,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * primerDescuento);
+                descuento = categoria_D * primerDescuento;
+                mensualidad = categoria_D - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * segundoDescuento);
+                descuento = categoria_D * segundoDescuento;
+                mensualidad = categoria_D - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * tercerDescuento);
+                descuento = categoria_D * tercerDescuento;
+                mensualidad = categoria_D - descuento;
             }
             Console.WriteLine($"Estas en la categoria {cuartaCategoria}");
         }
@@ -632,17 +689,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * primerDescuento);
+                descuento = categoria_A * primerDescuento;
+                mensualidad = categoria_A - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * segundoDescuento);
+                descuento = categoria_A * segundoDescuento;
+                mensualidad = categoria_A - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * tercerDescuento);
+                descuento = categoria_A * tercerDescuento;
+                mensualidad = categoria_A - descuento;
             }
             Console.WriteLine($"Estas en la categoria {primerCategoria}");
         }
@@ -656,17 +716,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * primerDescuento);
+                descuento = categoria_B * primerDescuento;
+                mensualidad = categoria_B - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * segundoDescuento);
+                descuento = categoria_B * segundoDescuento;
+                mensualidad = categoria_B - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * tercerDescuento);
+                descuento = categoria_B * tercerDescuento;
+                mensualidad = categoria_B - descuento;
             }
             Console.WriteLine($"Estas en la categoria {segundaCategoria}");
         }
@@ -680,17 +743,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * primerDescuento);
+                descuento = categoria_C * primerDescuento;
+                mensualidad = categoria_C - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * segundoDescuento);
+                descuento = categoria_C * segundoDescuento;
+                mensualidad = categoria_C - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * tercerDescuento);
+                descuento = categoria_C * tercerDescuento;
+                mensualidad = categoria_C - descuento;
             }
             Console.WriteLine($"Estas en la categoria {terceraCategoria}");
         }
@@ -704,17 +770,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * primerDescuento);
+                descuento = categoria_D * primerDescuento;
+                mensualidad = categoria_D - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * segundoDescuento);
+                descuento = categoria_D * segundoDescuento;
+                mensualidad = categoria_D - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * tercerDescuento);
+                descuento = categoria_D * tercerDescuento;
+                mensualidad = categoria_D - descuento;
             }
             Console.WriteLine($"Estas en la categoria {cuartaCategoria}");
         }
@@ -733,17 +802,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * primerDescuento);
+                descuento = categoria_A * primerDescuento;
+                mensualidad = categoria_A - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * segundoDescuento);
+                descuento = categoria_A * segundoDescuento;
+                mensualidad = categoria_A - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * tercerDescuento);
+                descuento = categoria_A * tercerDescuento;
+                mensualidad = categoria_A - descuento;
             }
             Console.WriteLine($"Estas en la categoria {primerCategoria}");
         }
@@ -757,17 +829,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * primerDescuento);
+                descuento = categoria_B * primerDescuento;
+                mensualidad = categoria_B - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * segundoDescuento);
+                descuento = categoria_B * segundoDescuento;
+                mensualidad = categoria_B - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * tercerDescuento);
+                descuento = categoria_B * tercerDescuento;
+                mensualidad = categoria_B - descuento;
             }
             Console.WriteLine($"Estas en la categoria {segundaCategoria}");
         }
@@ -781,17 +856,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * primerDescuento);
+                descuento = categoria_C * primerDescuento;
+                mensualidad = categoria_C - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * segundoDescuento);
+                descuento = categoria_C * segundoDescuento;
+                mensualidad = categoria_C - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * tercerDescuento);
+                descuento = categoria_C * tercerDescuento;
+                mensualidad = categoria_C - descuento;
             }
             Console.WriteLine($"Estas en la categoria {terceraCategoria}");
         }
@@ -805,17 +883,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * primerDescuento);
+                descuento = categoria_D * primerDescuento;
+                mensualidad = categoria_D - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * segundoDescuento);
+                descuento = categoria_D * segundoDescuento;
+                mensualidad = categoria_D - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * tercerDescuento);
+                descuento = categoria_D * tercerDescuento;
+                mensualidad = categoria_D - descuento;
             }
             Console.WriteLine($"Estas en la categoria {cuartaCategoria}");
         }
@@ -834,17 +915,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * primerDescuento);
+                descuento = categoria_A * primerDescuento;
+                mensualidad = categoria_A - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * segundoDescuento);
+                descuento = categoria_A * segundoDescuento;
+                mensualidad = categoria_A - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * tercerDescuento);
+                descuento = categoria_A * tercerDescuento;
+                mensualidad = categoria_A - descuento;
             }
             Console.WriteLine($"Estas en la categoria {primerCategoria}");
         }
@@ -858,17 +942,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * primerDescuento);
+                descuento = categoria_B * primerDescuento;
+                mensualidad = categoria_B - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * segundoDescuento);
+                descuento = categoria_B * segundoDescuento;
+                mensualidad = categoria_B - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * tercerDescuento);
+                descuento = categoria_B * tercerDescuento;
+                mensualidad = categoria_B - descuento;
             }
             Console.WriteLine($"Estas en la categoria {segundaCategoria}");
         }
@@ -882,17 +969,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * primerDescuento);
+                descuento = categoria_C * primerDescuento;
+                mensualidad = categoria_C - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * segundoDescuento);
+                descuento = categoria_C * segundoDescuento;
+                mensualidad = categoria_C - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * tercerDescuento);
+                descuento = categoria_C * tercerDescuento;
+                mensualidad = categoria_C - descuento;
             }
             Console.WriteLine($"Estas en la categoria {terceraCategoria}");
         }
@@ -906,17 +996,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * primerDescuento);
+                descuento = categoria_D * primerDescuento;
+                mensualidad = categoria_D - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * segundoDescuento);
+                descuento = categoria_D * segundoDescuento;
+                mensualidad = categoria_D - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * tercerDescuento);
+                descuento = categoria_D * tercerDescuento;
+                mensualidad = categoria_D - descuento;
             }
             Console.WriteLine($"Estas en la categoria {cuartaCategoria}");
         }
@@ -935,17 +1028,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * primerDescuento);
+                descuento = categoria_A * primerDescuento;
+                mensualidad = categoria_A - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * segundoDescuento);
+                descuento = categoria_A * segundoDescuento;
+                mensualidad = categoria_A - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_A - (categoria_A * tercerDescuento);
+                descuento = categoria_A * tercerDescuento;
+                mensualidad = categoria_A - descuento;
             }
             Console.WriteLine($"Estas en la categoria {primerCategoria}");
         }
@@ -959,17 +1055,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * primerDescuento);
+                descuento = categoria_B * primerDescuento;
+                mensualidad = categoria_B - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * segundoDescuento);
+                descuento = categoria_B * segundoDescuento;
+                mensualidad = categoria_B - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_B - (categoria_B * tercerDescuento);
+                descuento = categoria_B * tercerDescuento;
+                mensualidad = categoria_B - descuento;
             }
             Console.WriteLine($"Estas en la categoria {segundaCategoria}");
         }
@@ -983,17 +1082,20 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * primerDescuento);
+                descuento = categoria_C * primerDescuento;
+                mensualidad = categoria_C - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * segundoDescuento);
+                descuento = categoria_C * segundoDescuento;
+                mensualidad = categoria_C - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_C - (categoria_C * tercerDescuento);
+                descuento = categoria_C * tercerDescuento;
+                mensualidad = categoria_C - descuento;
             }
             Console.WriteLine($"Estas en la categoria {terceraCategoria}");
         }
@@ -1007,22 +1109,25 @@ switch (ingresaCiclo)
             else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * primerDescuento);
+                descuento = categoria_D * primerDescuento;
+                mensualidad = categoria_D - descuento;
             }
             else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * segundoDescuento);
+                descuento = categoria_D * segundoDescuento;
+                mensualidad = categoria_D - descuento;
             }
             else
             {
                 nota = ingreseNotas;
-                mensualidad = categoria_D - (categoria_D * tercerDescuento);
+                descuento = categoria_D * tercerDescuento;
+                mensualidad = categoria_D - descuento;
             }
             Console.WriteLine($"Estas en la categoria {cuartaCategoria}");
         }
         break;
 }
-Console.WriteLine($"Tu nota final es: {nota}");
+Console.WriteLine($"Tu promedio ponderado del ciclo anterior es: {nota}");
 Console.WriteLine($"Tienes un descuento de: S/{descuento} soles.");
 Console.WriteLine($"Tu mensualidad de este mes es de: S/{mensualidad} soles.");

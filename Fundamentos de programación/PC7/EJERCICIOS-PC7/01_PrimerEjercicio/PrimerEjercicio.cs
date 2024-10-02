@@ -15,7 +15,7 @@ Semestralmente, la universidad efectúa rebajas en las pensiones de sus estudian
 18.00 a 20.00	            15 %
 Dado el promedio ponderado y la categoría de un estudiante, diseñe un programa que determine cuánto de rebaja recibirá sobre su pensión actual y a cuánto asciende su nueva pensión.
 */
-
+/*
 int eleigeCategoria, ingresaCiclo;
 
 // Categorias
@@ -31,7 +31,8 @@ string primerCategoria = "A";
 string segundaCategoria = "B";
 string terceraCategoria = "C";
 string cuartaCategoria = "D";
-
+*/
+/*
 do
 {
     Console.Write("=========================\n");
@@ -1131,3 +1132,220 @@ switch (ingresaCiclo)
 Console.WriteLine($"Tu promedio ponderado del ciclo anterior es: {nota}");
 Console.WriteLine($"Tienes un descuento de: S/{descuento} soles.");
 Console.WriteLine($"Tu mensualidad de este mes es de: S/{mensualidad} soles.");
+
+*/
+int eleigeCategoria, ingresaCiclo;
+
+// Categorias
+int categoria_A = 550, categoria_B = 500, categoria_C = 460, categoria_D = 400;
+
+// Descuentos
+double primerDescuento = 0.10, segundoDescuento = 0.12, tercerDescuento = 0.15;
+
+//notas - Vamos ingresar 4 notas de las cuales y se dividira y saldra el promedio final del alumno.
+double ingreseNotas, nota = 0, mensualidad = 0, descuento = 0;
+
+string primerCategoria = "A";
+string segundaCategoria = "B";
+string terceraCategoria = "C";
+string cuartaCategoria = "D";
+
+do
+{
+    Console.Write("En que ciclo estas: ");
+    ingresaCiclo = Convert.ToInt32(Console.ReadLine());
+    if (ingresaCiclo <= 0 || ingresaCiclo >= 11)
+    {
+        Console.WriteLine("ERROR - Debes elegir entre 1 - 10.");
+    }
+} while (ingresaCiclo <= 0 || ingresaCiclo >= 11);
+
+do
+{
+    Console.WriteLine("En que categoria estas: ");
+    Console.WriteLine("[1] Categoria A");
+    Console.WriteLine("[2] Categoria B");
+    Console.WriteLine("[3] Categoria C");
+    Console.WriteLine("[4] Categoria D");
+    Console.Write("Elige entre 1 - 4: ");
+    eleigeCategoria = Convert.ToInt32(Console.ReadLine());
+    if (eleigeCategoria <= 0 || eleigeCategoria >= 5)
+    {
+        Console.WriteLine("ERROR - Debes elegir entre 1 - 4.");
+    }
+} while (eleigeCategoria <= 0 || eleigeCategoria >= 5);
+
+do
+{
+    Console.Write("Ingresa el promedio final: ");
+    ingreseNotas = Convert.ToDouble(Console.ReadLine());
+    if (ingreseNotas < 0 || ingreseNotas > 20)
+    {
+        Console.WriteLine("ERROR - la nota no puede ser menor a 0 ni mayor a 20.");
+    }
+} while (ingreseNotas < 0 || ingreseNotas > 20);
+
+
+Console.WriteLine("=========");
+Console.WriteLine($"{ingresaCiclo} CICLO");
+Console.WriteLine("=========");
+
+if (ingresaCiclo == 1)
+
+
+{
+    switch (eleigeCategoria)
+    {
+        case 1:
+            Console.WriteLine($"Estas en la categoria {primerCategoria}");
+            nota = ingreseNotas;
+            mensualidad = categoria_A;
+            break;
+
+        case 2:
+            Console.WriteLine($"Estas en la categoria {segundaCategoria}");
+            nota = ingreseNotas;
+            mensualidad = categoria_B;
+            break;
+
+        case 3:
+            Console.WriteLine($"Estas en la categoria {terceraCategoria}");
+            nota = ingreseNotas;
+            mensualidad = categoria_C;
+            break;
+
+        case 4:
+            Console.WriteLine($"Estas en la categoria {cuartaCategoria}");
+            nota = ingreseNotas;
+            mensualidad = categoria_D;
+            break;
+    }
+}
+
+else if (ingresaCiclo >= 2 && ingresaCiclo <= 10)
+{
+    switch (eleigeCategoria)
+    {
+        case 1:
+            if (ingreseNotas >= 0 && ingreseNotas <= 13.99)
+            {
+                nota = ingreseNotas;
+                mensualidad = categoria_A;
+            }
+            else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
+            {
+                nota = ingreseNotas;
+                descuento = categoria_A * primerDescuento;
+                mensualidad = categoria_A - descuento;
+            }
+
+            else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
+            {
+                nota = ingreseNotas;
+                descuento = categoria_A * segundoDescuento;
+                mensualidad = categoria_A - descuento;
+            }
+
+            else
+            {
+                nota = ingreseNotas;
+                descuento = categoria_A * tercerDescuento;
+                mensualidad = categoria_A - descuento;
+            }
+            Console.WriteLine($"Estas en la categoria {primerCategoria}");
+            break;
+
+        case 2:
+            if (ingreseNotas >= 0 && ingreseNotas <= 13.99)
+            {
+                nota = ingreseNotas;
+                mensualidad = categoria_B;
+            }
+            else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
+            {
+                nota = ingreseNotas;
+                descuento = categoria_B * primerDescuento;
+                mensualidad = categoria_B - descuento;
+            }
+
+            else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
+            {
+                nota = ingreseNotas;
+                descuento = categoria_B * segundoDescuento;
+                mensualidad = categoria_B - descuento;
+            }
+
+            else
+            {
+                nota = ingreseNotas;
+                descuento = categoria_B * tercerDescuento;
+                mensualidad = categoria_B - descuento;
+            }
+            Console.WriteLine($"Estas en la categoria {segundaCategoria}");
+            break;
+
+        case 3:
+            if (ingreseNotas >= 0 && ingreseNotas <= 13.99)
+            {
+                nota = ingreseNotas;
+                mensualidad = categoria_C;
+            }
+            else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
+            {
+                nota = ingreseNotas;
+                descuento = categoria_C * primerDescuento;
+                mensualidad = categoria_C - descuento;
+            }
+
+            else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
+            {
+                nota = ingreseNotas;
+                descuento = categoria_C * segundoDescuento;
+                mensualidad = categoria_C - descuento;
+            }
+
+            else
+            {
+                nota = ingreseNotas;
+                descuento = categoria_C * tercerDescuento;
+                mensualidad = categoria_C - descuento;
+            }
+            Console.WriteLine($"Estas en la categoria {terceraCategoria}");
+            break;
+
+        case 4:
+            if (ingreseNotas >= 0 && ingreseNotas <= 13.99)
+            {
+                nota = ingreseNotas;
+                mensualidad = categoria_D;
+            }
+            else if (ingreseNotas >= 14 && ingreseNotas <= 15.99)
+            {
+                nota = ingreseNotas;
+                descuento = categoria_D * primerDescuento;
+                mensualidad = categoria_D - descuento;
+            }
+
+            else if (ingreseNotas >= 16 && ingreseNotas <= 17.99)
+            {
+                nota = ingreseNotas;
+                descuento = categoria_D * segundoDescuento;
+                mensualidad = categoria_D - descuento;
+            }
+
+            else
+            {
+                nota = ingreseNotas;
+                descuento = categoria_D * tercerDescuento;
+                mensualidad = categoria_D - descuento;
+            }
+            Console.WriteLine($"Estas en la categoria {cuartaCategoria}");
+            break;
+    }
+}
+Console.WriteLine($"Tu promedio ponderado del ciclo anterior es: {nota}");
+Console.WriteLine($"Tienes un descuento de: S/{descuento:F2} soles.");
+Console.WriteLine($"Tu mensualidad de este mes es de: S/{mensualidad:F2} soles.");
+
+
+

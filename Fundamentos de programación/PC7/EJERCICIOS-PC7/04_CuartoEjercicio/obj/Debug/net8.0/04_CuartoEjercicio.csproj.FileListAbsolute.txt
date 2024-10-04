@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/04_CuartoEjercicio/obj/Debug/net8.0/04_CuartoEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/04_CuartoEjercicio/obj/Debug/net8.0/04_CuartoEjercicio.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/04_CuartoEjercicio/obj/Debug/net8.0/04_CuartoEjercicio.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/04_CuartoEjercicio/obj/Debug/net8.0/04_CuartoEjercicio.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/04_CuartoEjercicio/obj/Debug/net8.0/04_CuartoEjercicio.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/04_CuartoEjercicio/bin/Debug/net8.0/04_CuartoEjercicio
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/04_CuartoEjercicio/bin/Debug/net8.0/04_CuartoEjercicio.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/04_CuartoEjercicio/bin/Debug/net8.0/04_CuartoEjercicio.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/04_CuartoEjercicio/bin/Debug/net8.0/04_CuartoEjercicio.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/04_CuartoEjercicio/bin/Debug/net8.0/04_CuartoEjercicio.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/04_CuartoEjercicio/obj/Debug/net8.0/04_CuartoEjercicio.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/04_CuartoEjercicio/obj/Debug/net8.0/refint/04_CuartoEjercicio.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/04_CuartoEjercicio/obj/Debug/net8.0/04_CuartoEjercicio.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/04_CuartoEjercicio/obj/Debug/net8.0/04_CuartoEjercicio.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/04_CuartoEjercicio/obj/Debug/net8.0/ref/04_CuartoEjercicio.dll

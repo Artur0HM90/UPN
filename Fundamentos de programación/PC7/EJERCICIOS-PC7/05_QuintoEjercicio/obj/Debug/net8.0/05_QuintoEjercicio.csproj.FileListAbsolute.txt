@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/05_QuintoEjercicio/bin/Debug/net8.0/05_QuintoEjercicio
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/05_QuintoEjercicio/bin/Debug/net8.0/05_QuintoEjercicio.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/05_QuintoEjercicio/bin/Debug/net8.0/05_QuintoEjercicio.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/05_QuintoEjercicio/bin/Debug/net8.0/05_QuintoEjercicio.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/05_QuintoEjercicio/bin/Debug/net8.0/05_QuintoEjercicio.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/05_QuintoEjercicio/obj/Debug/net8.0/05_QuintoEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/05_QuintoEjercicio/obj/Debug/net8.0/05_QuintoEjercicio.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/05_QuintoEjercicio/obj/Debug/net8.0/05_QuintoEjercicio.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/05_QuintoEjercicio/obj/Debug/net8.0/05_QuintoEjercicio.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/05_QuintoEjercicio/obj/Debug/net8.0/05_QuintoEjercicio.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/05_QuintoEjercicio/obj/Debug/net8.0/05_QuintoEjercicio.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/05_QuintoEjercicio/obj/Debug/net8.0/refint/05_QuintoEjercicio.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/05_QuintoEjercicio/obj/Debug/net8.0/05_QuintoEjercicio.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/05_QuintoEjercicio/obj/Debug/net8.0/05_QuintoEjercicio.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC7/EJERCICIOS-PC7/05_QuintoEjercicio/obj/Debug/net8.0/ref/05_QuintoEjercicio.dll

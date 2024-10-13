@@ -1,0 +1,12 @@
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/NovenaSemana/MiBiblioteca/bin/Debug/net8.0/MiBiblioteca.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/NovenaSemana/MiBiblioteca/bin/Debug/net8.0/MiBiblioteca.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/NovenaSemana/MiBiblioteca/bin/Debug/net8.0/MiBiblioteca.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/NovenaSemana/MiBiblioteca/obj/Debug/net8.0/MiBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/NovenaSemana/MiBiblioteca/obj/Debug/net8.0/MiBiblioteca.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/NovenaSemana/MiBiblioteca/obj/Debug/net8.0/MiBiblioteca.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/NovenaSemana/MiBiblioteca/obj/Debug/net8.0/MiBiblioteca.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/NovenaSemana/MiBiblioteca/obj/Debug/net8.0/MiBiblioteca.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/NovenaSemana/MiBiblioteca/obj/Debug/net8.0/MiBiblioteca.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/NovenaSemana/MiBiblioteca/obj/Debug/net8.0/refint/MiBiblioteca.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/NovenaSemana/MiBiblioteca/obj/Debug/net8.0/MiBiblioteca.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/NovenaSemana/MiBiblioteca/obj/Debug/net8.0/ref/MiBiblioteca.dll

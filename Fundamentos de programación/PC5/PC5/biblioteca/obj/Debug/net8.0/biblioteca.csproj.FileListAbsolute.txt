@@ -1,0 +1,5 @@
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC5/PC5/biblioteca/obj/Debug/net8.0/biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC5/PC5/biblioteca/obj/Debug/net8.0/biblioteca.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC5/PC5/biblioteca/obj/Debug/net8.0/biblioteca.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC5/PC5/biblioteca/obj/Debug/net8.0/biblioteca.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/PC5/PC5/biblioteca/obj/Debug/net8.0/biblioteca.sourcelink.json

@@ -9,7 +9,6 @@ Console.Write("Ingrese el primer numero: ");
 a = Convert.ToInt32(Console.ReadLine()); // 15
 Console.Write("Ingrese eñ segundo numero");
 b = Convert.ToInt32(Console.ReadLine()); // 5
-
 if (a == b)
 {
     Console.WriteLine("Debe ingresar numeros diferentes");

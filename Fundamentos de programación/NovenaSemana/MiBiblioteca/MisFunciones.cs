@@ -26,4 +26,8 @@ public class MisFunciones
             return numero1 / numero2;
         }
     }
+    public static double Resto(double numero1, double numero2)
+    {
+        return numero1 % numero2;
+    }
 }

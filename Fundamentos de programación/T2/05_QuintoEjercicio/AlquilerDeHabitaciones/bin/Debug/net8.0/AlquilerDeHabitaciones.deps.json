@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AlquilerDeHabitaciones/1.0.0": {
+        "dependencies": {
+          "Mishabitaciones": "1.0.0"
+        },
+        "runtime": {
+          "AlquilerDeHabitaciones.dll": {}
+        }
+      },
+      "Mishabitaciones/1.0.0": {
+        "runtime": {
+          "Mishabitaciones.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlquilerDeHabitaciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mishabitaciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

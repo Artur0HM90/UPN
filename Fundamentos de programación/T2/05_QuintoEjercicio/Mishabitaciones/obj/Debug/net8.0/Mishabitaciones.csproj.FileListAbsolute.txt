@@ -1,0 +1,12 @@
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T2/05_QuintoEjercicio/Mishabitaciones/bin/Debug/net8.0/Mishabitaciones.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T2/05_QuintoEjercicio/Mishabitaciones/bin/Debug/net8.0/Mishabitaciones.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T2/05_QuintoEjercicio/Mishabitaciones/bin/Debug/net8.0/Mishabitaciones.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T2/05_QuintoEjercicio/Mishabitaciones/obj/Debug/net8.0/Mishabitaciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T2/05_QuintoEjercicio/Mishabitaciones/obj/Debug/net8.0/Mishabitaciones.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T2/05_QuintoEjercicio/Mishabitaciones/obj/Debug/net8.0/Mishabitaciones.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T2/05_QuintoEjercicio/Mishabitaciones/obj/Debug/net8.0/Mishabitaciones.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T2/05_QuintoEjercicio/Mishabitaciones/obj/Debug/net8.0/Mishabitaciones.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T2/05_QuintoEjercicio/Mishabitaciones/obj/Debug/net8.0/Mishabitaciones.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T2/05_QuintoEjercicio/Mishabitaciones/obj/Debug/net8.0/refint/Mishabitaciones.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T2/05_QuintoEjercicio/Mishabitaciones/obj/Debug/net8.0/Mishabitaciones.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T2/05_QuintoEjercicio/Mishabitaciones/obj/Debug/net8.0/ref/Mishabitaciones.dll

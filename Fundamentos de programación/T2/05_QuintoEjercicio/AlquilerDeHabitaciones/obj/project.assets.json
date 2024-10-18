@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Mishabitaciones/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Mishabitaciones.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Mishabitaciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mishabitaciones/1.0.0": {
+      "type": "project",
+      "path": "../Mishabitaciones/Mishabitaciones.csproj",
+      "msbuildProject": "../Mishabitaciones/Mishabitaciones.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Mishabitaciones >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/artur0hm/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T2/05_QuintoEjercicio/AlquilerDeHabitaciones/AlquilerDeHabitaciones.csproj",
+      "projectName": "AlquilerDeHabitaciones",
+      "projectPath": "/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T2/05_QuintoEjercicio/AlquilerDeHabitaciones/AlquilerDeHabitaciones.csproj",
+      "packagesPath": "/Users/artur0hm/.nuget/packages/",
+      "outputPath": "/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T2/05_QuintoEjercicio/AlquilerDeHabitaciones/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/artur0hm/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T2/05_QuintoEjercicio/Mishabitaciones/Mishabitaciones.csproj": {
+              "projectPath": "/Users/artur0hm/Desktop/Programacion/UPN/Fundamentos de programación/T2/05_QuintoEjercicio/Mishabitaciones/Mishabitaciones.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -2,7 +2,8 @@
 int elegirRuta, elegirBus;
 
 // distancias
-int limaChimbote = 427, limaTrujillo = 556, limaChiclayo = 770, limaArequipa = 1011, limaTacna = 123;
+int limaChimbote = 427, limaTrujillo = 556, limaChiclayo = 770, limaArequipa = 1011, limaTacna = 1233;
+int busDeCincuenta = 50, busDeSesenta = 60, busDeSetenta = 70;
 
 // consumo por cada 100 Km - consumo de gasolina
 double busDeCincuentaPasajeros = 5, busDeSesentaPasajeros = 6, busDeSetentaPasajeros = 6.5;
@@ -246,4 +247,15 @@ switch (elegirRuta)
 Console.WriteLine($"El consuma de combustible es de: {consumoDeCombustible:F2} galones.");
 Console.WriteLine($"Costo del combustible por galon es de: S/{costoDelCombustible} soles.");
 Console.WriteLine($"Costo total del consumo de combustible es: S/{costoDelCombustible * consumoDeCombustible + pagoTotalAlPersonal:F2} soles.");
-Console.WriteLine("");
+if (elegirBus == 1)
+{
+    Console.WriteLine($"El costo de cada boleto seria: S/{((costoDelCombustible * consumoDeCombustible + pagoTotalAlPersonal) / busDeCincuenta):F2} soles.");
+}
+else if (elegirBus == 2)
+{
+    Console.WriteLine($"El costo de cada boleto seria: S/{((costoDelCombustible * consumoDeCombustible + pagoTotalAlPersonal) / busDeSesenta):F2} soles.");
+}
+else if (elegirBus == 3)
+{
+    Console.WriteLine($"El costo de cada boleto seria: S/{((costoDelCombustible * consumoDeCombustible + pagoTotalAlPersonal) / busDeSetenta):F2} soles.");
+}

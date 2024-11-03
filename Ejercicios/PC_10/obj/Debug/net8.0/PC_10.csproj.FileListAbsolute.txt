@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/Ejercicios/PC_10/bin/Debug/net8.0/PC_10
+/Users/artur0hm/Desktop/Programacion/UPN/Ejercicios/PC_10/bin/Debug/net8.0/PC_10.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/Ejercicios/PC_10/bin/Debug/net8.0/PC_10.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/Ejercicios/PC_10/bin/Debug/net8.0/PC_10.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Ejercicios/PC_10/bin/Debug/net8.0/PC_10.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Ejercicios/PC_10/obj/Debug/net8.0/PC_10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/Ejercicios/PC_10/obj/Debug/net8.0/PC_10.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Ejercicios/PC_10/obj/Debug/net8.0/PC_10.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/Ejercicios/PC_10/obj/Debug/net8.0/PC_10.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Ejercicios/PC_10/obj/Debug/net8.0/PC_10.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/Ejercicios/PC_10/obj/Debug/net8.0/PC_10.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Ejercicios/PC_10/obj/Debug/net8.0/refint/PC_10.dll
+/Users/artur0hm/Desktop/Programacion/UPN/Ejercicios/PC_10/obj/Debug/net8.0/PC_10.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/Ejercicios/PC_10/obj/Debug/net8.0/PC_10.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/Ejercicios/PC_10/obj/Debug/net8.0/ref/PC_10.dll

@@ -1,33 +1,35 @@
-﻿int[] arreglo1 = new int[5];
-int[] arreglo2 = new int[5];
-int[] arreglo3 = new int[5];
+﻿using System;
 
-
-void LlenarArreglo(int[] arreglo, string nombreArreglo)
+class Program
 {
-    for (int i = 0; i < arreglo.Length; i++)
+    static void Main()
     {
-        Console.Write($"Ingrese el valor para la posición {i} del {nombreArreglo}: ");
-        arreglo[i] = int.Parse(Console.ReadLine());
+
+        Console.Write("Introduce una frase: ");
+        string frase = Console.ReadLine();
+
+
+        while (true)
+        {
+            Console.Write("\nIntroduce una palabra (presiona ENTER para terminar): ");
+            string palabra = Console.ReadLine();
+
+            if (string.IsNullOrEmpty(palabra))
+            {
+                break;
+            }
+
+
+            if (frase.Contains(palabra))
+            {
+                Console.WriteLine($"La palabra '{palabra}' es parte de la frase.");
+            }
+            else
+            {
+                Console.WriteLine($"La palabra '{palabra}' NO es parte de la frase.");
+            }
+        }
+
+        Console.WriteLine("\nPrograma terminado.");
     }
-}
-
-
-Console.Write("Llenando el Arreglo 1: ");
-LlenarArreglo(arreglo1, "Arreglo 1");
-
-Console.Write("Llenando el Arreglo 2: ");
-LlenarArreglo(arreglo2, "Arreglo 2");
-
-
-for (int i = 0; i < arreglo1.Length; i++)
-{
-    arreglo3[i] = arreglo1[i] + arreglo2[i];
-}
-
-
-Console.WriteLine("\nResultado de la suma de cada posición:");
-for (int i = 0; i < arreglo1.Length; i++)
-{
-    Console.WriteLine($"Valor pos {i} arreglo 1 ({arreglo1[i]}) + valor pos {i} arreglo 2 ({arreglo2[i]}) = valor pos {i} arreglo 3 ({arreglo3[i]})");
 }

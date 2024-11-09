@@ -1,0 +1,5 @@
+/Users/artur0hm/Desktop/Programacion/UPN/once/once/obj/Debug/net8.0/once.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/once/once/obj/Debug/net8.0/once.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/once/once/obj/Debug/net8.0/once.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/once/once/obj/Debug/net8.0/once.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/once/once/obj/Debug/net8.0/once.sourcelink.json

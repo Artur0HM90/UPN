@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/once/docenas/bin/Debug/net8.0/docenas
+/Users/artur0hm/Desktop/Programacion/UPN/once/docenas/bin/Debug/net8.0/docenas.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/once/docenas/bin/Debug/net8.0/docenas.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/once/docenas/bin/Debug/net8.0/docenas.dll
+/Users/artur0hm/Desktop/Programacion/UPN/once/docenas/bin/Debug/net8.0/docenas.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/once/docenas/obj/Debug/net8.0/docenas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/once/docenas/obj/Debug/net8.0/docenas.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/once/docenas/obj/Debug/net8.0/docenas.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/once/docenas/obj/Debug/net8.0/docenas.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/once/docenas/obj/Debug/net8.0/docenas.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/once/docenas/obj/Debug/net8.0/docenas.dll
+/Users/artur0hm/Desktop/Programacion/UPN/once/docenas/obj/Debug/net8.0/refint/docenas.dll
+/Users/artur0hm/Desktop/Programacion/UPN/once/docenas/obj/Debug/net8.0/docenas.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/once/docenas/obj/Debug/net8.0/docenas.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/once/docenas/obj/Debug/net8.0/ref/docenas.dll

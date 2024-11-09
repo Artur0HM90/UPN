@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "primerEjercicio/1.0.0": {
+        "runtime": {
+          "primerEjercicio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "primerEjercicio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

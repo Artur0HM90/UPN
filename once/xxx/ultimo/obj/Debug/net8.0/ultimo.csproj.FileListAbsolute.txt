@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/once/xxx/ultimo/bin/Debug/net8.0/ultimo
+/Users/artur0hm/Desktop/Programacion/UPN/once/xxx/ultimo/bin/Debug/net8.0/ultimo.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/once/xxx/ultimo/bin/Debug/net8.0/ultimo.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/once/xxx/ultimo/bin/Debug/net8.0/ultimo.dll
+/Users/artur0hm/Desktop/Programacion/UPN/once/xxx/ultimo/bin/Debug/net8.0/ultimo.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/once/xxx/ultimo/obj/Debug/net8.0/ultimo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/once/xxx/ultimo/obj/Debug/net8.0/ultimo.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/once/xxx/ultimo/obj/Debug/net8.0/ultimo.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/once/xxx/ultimo/obj/Debug/net8.0/ultimo.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/once/xxx/ultimo/obj/Debug/net8.0/ultimo.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/once/xxx/ultimo/obj/Debug/net8.0/ultimo.dll
+/Users/artur0hm/Desktop/Programacion/UPN/once/xxx/ultimo/obj/Debug/net8.0/refint/ultimo.dll
+/Users/artur0hm/Desktop/Programacion/UPN/once/xxx/ultimo/obj/Debug/net8.0/ultimo.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/once/xxx/ultimo/obj/Debug/net8.0/ultimo.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/once/xxx/ultimo/obj/Debug/net8.0/ref/ultimo.dll

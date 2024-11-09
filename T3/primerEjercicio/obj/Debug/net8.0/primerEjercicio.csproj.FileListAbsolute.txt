@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/T3/primerEjercicio/bin/Debug/net8.0/primerEjercicio
+/Users/artur0hm/Desktop/Programacion/UPN/T3/primerEjercicio/bin/Debug/net8.0/primerEjercicio.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/T3/primerEjercicio/bin/Debug/net8.0/primerEjercicio.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/T3/primerEjercicio/bin/Debug/net8.0/primerEjercicio.dll
+/Users/artur0hm/Desktop/Programacion/UPN/T3/primerEjercicio/bin/Debug/net8.0/primerEjercicio.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/T3/primerEjercicio/obj/Debug/net8.0/primerEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/T3/primerEjercicio/obj/Debug/net8.0/primerEjercicio.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/T3/primerEjercicio/obj/Debug/net8.0/primerEjercicio.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/T3/primerEjercicio/obj/Debug/net8.0/primerEjercicio.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/T3/primerEjercicio/obj/Debug/net8.0/primerEjercicio.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/T3/primerEjercicio/obj/Debug/net8.0/primerEjercicio.dll
+/Users/artur0hm/Desktop/Programacion/UPN/T3/primerEjercicio/obj/Debug/net8.0/refint/primerEjercicio.dll
+/Users/artur0hm/Desktop/Programacion/UPN/T3/primerEjercicio/obj/Debug/net8.0/primerEjercicio.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/T3/primerEjercicio/obj/Debug/net8.0/primerEjercicio.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/T3/primerEjercicio/obj/Debug/net8.0/ref/primerEjercicio.dll

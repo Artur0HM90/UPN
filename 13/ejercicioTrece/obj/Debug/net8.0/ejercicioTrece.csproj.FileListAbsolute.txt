@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/13/ejercicioTrece/bin/Debug/net8.0/ejercicioTrece
+/Users/artur0hm/Desktop/Programacion/UPN/13/ejercicioTrece/bin/Debug/net8.0/ejercicioTrece.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/13/ejercicioTrece/bin/Debug/net8.0/ejercicioTrece.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/13/ejercicioTrece/bin/Debug/net8.0/ejercicioTrece.dll
+/Users/artur0hm/Desktop/Programacion/UPN/13/ejercicioTrece/bin/Debug/net8.0/ejercicioTrece.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/13/ejercicioTrece/obj/Debug/net8.0/ejercicioTrece.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/13/ejercicioTrece/obj/Debug/net8.0/ejercicioTrece.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/13/ejercicioTrece/obj/Debug/net8.0/ejercicioTrece.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/13/ejercicioTrece/obj/Debug/net8.0/ejercicioTrece.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/13/ejercicioTrece/obj/Debug/net8.0/ejercicioTrece.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/13/ejercicioTrece/obj/Debug/net8.0/ejercicioTrece.dll
+/Users/artur0hm/Desktop/Programacion/UPN/13/ejercicioTrece/obj/Debug/net8.0/refint/ejercicioTrece.dll
+/Users/artur0hm/Desktop/Programacion/UPN/13/ejercicioTrece/obj/Debug/net8.0/ejercicioTrece.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/13/ejercicioTrece/obj/Debug/net8.0/ejercicioTrece.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/13/ejercicioTrece/obj/Debug/net8.0/ref/ejercicioTrece.dll

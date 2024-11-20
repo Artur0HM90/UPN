@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/EF/bandera/bin/Debug/net8.0/bandera
+/Users/artur0hm/Desktop/Programacion/UPN/EF/bandera/bin/Debug/net8.0/bandera.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/EF/bandera/bin/Debug/net8.0/bandera.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/EF/bandera/bin/Debug/net8.0/bandera.dll
+/Users/artur0hm/Desktop/Programacion/UPN/EF/bandera/bin/Debug/net8.0/bandera.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/EF/bandera/obj/Debug/net8.0/bandera.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/EF/bandera/obj/Debug/net8.0/bandera.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/EF/bandera/obj/Debug/net8.0/bandera.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/EF/bandera/obj/Debug/net8.0/bandera.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/EF/bandera/obj/Debug/net8.0/bandera.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/EF/bandera/obj/Debug/net8.0/bandera.dll
+/Users/artur0hm/Desktop/Programacion/UPN/EF/bandera/obj/Debug/net8.0/refint/bandera.dll
+/Users/artur0hm/Desktop/Programacion/UPN/EF/bandera/obj/Debug/net8.0/bandera.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/EF/bandera/obj/Debug/net8.0/bandera.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/EF/bandera/obj/Debug/net8.0/ref/bandera.dll

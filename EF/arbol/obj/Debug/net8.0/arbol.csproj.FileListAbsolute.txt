@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/EF/arbol/bin/Debug/net8.0/arbol
+/Users/artur0hm/Desktop/Programacion/UPN/EF/arbol/bin/Debug/net8.0/arbol.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/EF/arbol/bin/Debug/net8.0/arbol.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/EF/arbol/bin/Debug/net8.0/arbol.dll
+/Users/artur0hm/Desktop/Programacion/UPN/EF/arbol/bin/Debug/net8.0/arbol.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/EF/arbol/obj/Debug/net8.0/arbol.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/EF/arbol/obj/Debug/net8.0/arbol.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/EF/arbol/obj/Debug/net8.0/arbol.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/EF/arbol/obj/Debug/net8.0/arbol.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/EF/arbol/obj/Debug/net8.0/arbol.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/EF/arbol/obj/Debug/net8.0/arbol.dll
+/Users/artur0hm/Desktop/Programacion/UPN/EF/arbol/obj/Debug/net8.0/refint/arbol.dll
+/Users/artur0hm/Desktop/Programacion/UPN/EF/arbol/obj/Debug/net8.0/arbol.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/EF/arbol/obj/Debug/net8.0/arbol.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/EF/arbol/obj/Debug/net8.0/ref/arbol.dll

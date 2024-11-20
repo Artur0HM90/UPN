@@ -1,5 +1,4 @@
-﻿
-int tamaño;
+﻿int tamaño;
 Console.Write("Ingrese el tamaño de la bandera (un número entero positivo): ");
 tamaño = Convert.ToInt32(Console.ReadLine());
 

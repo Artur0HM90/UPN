@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/EF/nombres/obj/Debug/net8.0/nombres.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/EF/nombres/obj/Debug/net8.0/nombres.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/EF/nombres/obj/Debug/net8.0/nombres.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/EF/nombres/obj/Debug/net8.0/nombres.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/EF/nombres/obj/Debug/net8.0/nombres.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/EF/nombres/bin/Debug/net8.0/nombres
+/Users/artur0hm/Desktop/Programacion/UPN/EF/nombres/bin/Debug/net8.0/nombres.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/EF/nombres/bin/Debug/net8.0/nombres.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/EF/nombres/bin/Debug/net8.0/nombres.dll
+/Users/artur0hm/Desktop/Programacion/UPN/EF/nombres/bin/Debug/net8.0/nombres.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/EF/nombres/obj/Debug/net8.0/nombres.dll
+/Users/artur0hm/Desktop/Programacion/UPN/EF/nombres/obj/Debug/net8.0/refint/nombres.dll
+/Users/artur0hm/Desktop/Programacion/UPN/EF/nombres/obj/Debug/net8.0/nombres.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/EF/nombres/obj/Debug/net8.0/nombres.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/EF/nombres/obj/Debug/net8.0/ref/nombres.dll

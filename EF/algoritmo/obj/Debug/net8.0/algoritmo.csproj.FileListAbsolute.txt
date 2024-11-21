@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/EF/algoritmo/bin/Debug/net8.0/algoritmo
+/Users/artur0hm/Desktop/Programacion/UPN/EF/algoritmo/bin/Debug/net8.0/algoritmo.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/EF/algoritmo/bin/Debug/net8.0/algoritmo.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/EF/algoritmo/bin/Debug/net8.0/algoritmo.dll
+/Users/artur0hm/Desktop/Programacion/UPN/EF/algoritmo/bin/Debug/net8.0/algoritmo.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/EF/algoritmo/obj/Debug/net8.0/algoritmo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/EF/algoritmo/obj/Debug/net8.0/algoritmo.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/EF/algoritmo/obj/Debug/net8.0/algoritmo.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/EF/algoritmo/obj/Debug/net8.0/algoritmo.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/EF/algoritmo/obj/Debug/net8.0/algoritmo.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/EF/algoritmo/obj/Debug/net8.0/algoritmo.dll
+/Users/artur0hm/Desktop/Programacion/UPN/EF/algoritmo/obj/Debug/net8.0/refint/algoritmo.dll
+/Users/artur0hm/Desktop/Programacion/UPN/EF/algoritmo/obj/Debug/net8.0/algoritmo.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/EF/algoritmo/obj/Debug/net8.0/algoritmo.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/EF/algoritmo/obj/Debug/net8.0/ref/algoritmo.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("arbol")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b9c8a1c653b1d017ea40c97a299749dc286bf0c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25b09743baa01d7eea620da6ef4e17e30370a9c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("arbol")]
 [assembly: System.Reflection.AssemblyTitleAttribute("arbol")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

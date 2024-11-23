@@ -1,0 +1,15 @@
+/Users/artur0hm/Desktop/Programacion/UPN/EF/promedioNotas/bin/Debug/net8.0/promedioNotas
+/Users/artur0hm/Desktop/Programacion/UPN/EF/promedioNotas/bin/Debug/net8.0/promedioNotas.deps.json
+/Users/artur0hm/Desktop/Programacion/UPN/EF/promedioNotas/bin/Debug/net8.0/promedioNotas.runtimeconfig.json
+/Users/artur0hm/Desktop/Programacion/UPN/EF/promedioNotas/bin/Debug/net8.0/promedioNotas.dll
+/Users/artur0hm/Desktop/Programacion/UPN/EF/promedioNotas/bin/Debug/net8.0/promedioNotas.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/EF/promedioNotas/obj/Debug/net8.0/promedioNotas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur0hm/Desktop/Programacion/UPN/EF/promedioNotas/obj/Debug/net8.0/promedioNotas.AssemblyInfoInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/EF/promedioNotas/obj/Debug/net8.0/promedioNotas.AssemblyInfo.cs
+/Users/artur0hm/Desktop/Programacion/UPN/EF/promedioNotas/obj/Debug/net8.0/promedioNotas.csproj.CoreCompileInputs.cache
+/Users/artur0hm/Desktop/Programacion/UPN/EF/promedioNotas/obj/Debug/net8.0/promedioNotas.sourcelink.json
+/Users/artur0hm/Desktop/Programacion/UPN/EF/promedioNotas/obj/Debug/net8.0/promedioNotas.dll
+/Users/artur0hm/Desktop/Programacion/UPN/EF/promedioNotas/obj/Debug/net8.0/refint/promedioNotas.dll
+/Users/artur0hm/Desktop/Programacion/UPN/EF/promedioNotas/obj/Debug/net8.0/promedioNotas.pdb
+/Users/artur0hm/Desktop/Programacion/UPN/EF/promedioNotas/obj/Debug/net8.0/promedioNotas.genruntimeconfig.cache
+/Users/artur0hm/Desktop/Programacion/UPN/EF/promedioNotas/obj/Debug/net8.0/ref/promedioNotas.dll

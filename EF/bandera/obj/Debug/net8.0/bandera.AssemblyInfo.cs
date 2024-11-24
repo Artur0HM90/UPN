@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bandera")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc0eb3125c7b0856609cf60719c66bf2442fd5a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b51743c51185565c773919fdae5cd23bc71330bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("bandera")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bandera")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
